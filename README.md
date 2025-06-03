@@ -17,6 +17,10 @@
 | [crowdsecurity/http-generic-bf](https://app.crowdsec.net/hub/author/crowdsecurity/configurations/http-generic-bf) | [JSON](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/http-generic-bf.json)  | [TXT](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/http-generic-bf.json.txt)  |
 | [crowdsecurity/mysql-bf](https://app.crowdsec.net/hub/author/crowdsecurity/configurations/mysql-bf) | [JSON](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/mysql-bf.json)  | [TXT](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/mysql-bf.json.txt)  |
 | [crowdsecurity/ssh-bf](https://app.crowdsec.net/hub/author/crowdsecurity/configurations/ssh-bf) | [JSON](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/ssh-bf.json)  | [TXT](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/ssh-bf.json.txt)  |
+| [crowdsecurity/exim-bf](https://app.crowdsec.net/hub/author/crowdsecurity/configurations/exim-bf) | [JSON](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/exim-bf.json)  | [TXT](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/exim-bf.json.txt)  |
+| [crowdsecurity/iptables-scan-multi_ports](https://app.crowdsec.net/hub/author/crowdsecurity/configurations/iptables-scan-multi_ports) | [JSON](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/iptables-scan-multi_ports.json)  | [TXT](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/iptables-scan-multi_ports.json.txt)  |
+| [crowdsecurity/smb-bf](https://app.crowdsec.net/hub/author/crowdsecurity/configurations/smb-bf) | [JSON](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/smb-bf.json)  | [TXT](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/smb-bf.json.txt)  |
+| [crowdsecurity/telnet-bf](https://app.crowdsec.net/hub/author/crowdsecurity/configurations/telnet-bf) | [JSON](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/telnet-bf.json)  | [TXT](https://raw.githubusercontent.com/Y3ll0w/CrowdSec-CAPI-Decisions/main/telnet-bf.json.txt)  |
 
 ---
 
