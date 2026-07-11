@@ -1,1 +1,1 @@
-{"new":[{"scope":"ip","scenario":"vm-management:bruteforce","decisions":[{"value":"141.98.11.50","duration":"135h"},{"value":"141.98.11.59","duration":"61h"},{"value":"146.59.240.207","duration":"169h"},{"value":"57.128.104.151","duration":"169h"}]}],"deleted":[]}
+{"new":[{"scope":"ip","scenario":"vm-management:bruteforce","decisions":[{"value":"141.98.11.50","duration":"133h"},{"value":"141.98.11.59","duration":"59h"},{"value":"146.59.240.207","duration":"168h"},{"value":"57.128.104.151","duration":"168h"}]}],"deleted":[]}
